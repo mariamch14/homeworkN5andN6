@@ -1,0 +1,293 @@
+nav , li{
+	display: inline-block;
+
+}
+header{
+  background-color: orange;
+  animation-name: example;
+  animation-duration: 6s;
+}
+
+@keyframes example {
+  0%   {background-color: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
+}
+
+
+
+.logo {
+width: 196.73px;
+height: 60px;
+display: inline-block;
+padding-left: 50px;
+padding-top: 20px;
+}
+.inline1{
+	display: inline-block;
+	padding-left: 200px;
+	font-family: Roboto;
+	
+}
+.inline{
+	display: inline-block;
+	padding-left: 30px;
+	font-family: Roboto;
+	
+}
+
+.google{
+	width: 47.30px;
+	height:30px;
+	display:inline-block;
+	padding-left: 157px;
+	
+
+}
+
+.face{
+	width: 25px;
+	height: 30px;
+	display: inline-block;
+	padding-left: 54px;
+	
+}
+.yout{
+	width: 24.81px;
+	height:30px;
+	display: inline-block;
+	padding-left: 65px;
+	
+}
+.search{
+	width: 40px;
+	height:30px;
+	display: inline-block;
+	padding-left: 60px;
+
+}
+.first{
+	width: 1366px;
+	height: 570px;
+	background-color: #E6E6E6;
+	margin-top:35px;  
+	position: relative;
+	animation-name: example;
+   animation-duration: 6s ;
+}
+
+@keyframes example {
+  0%   {background-color: red; left: 0px; top: 0px;}
+  25%  {background-color: yellow; left: 100px; top: 0px;}
+  50%  {background-color: blue; left: 100px;top: 50px;}
+  100% {background-color: green;left: 0px; top: 0px;}
+}
+
+
+
+.img1{
+	width: 1170px;
+	height: 460px;
+	padding-top: 30px;
+	padding-left: 98px; 
+	position: absolute;
+}
+.text1{
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	padding-top: 323px;
+	padding-left:128px;
+   font-family: Roboto;
+}
+.logo2{
+	position: absolute;
+	padding-left: 950px;
+	padding-top: 370px;
+}
+.second{
+	background-color: #363E97;
+	width: 1366px;
+	height: 499.33px;
+	position: relative;
+	margin-top: 0px;
+}
+
+
+.shvili1{
+	background-color: #FFFFFF;
+	width: 570px;
+	height:320px;
+	margin-top: 100px;
+	margin-left:98px;
+	position: absolute;
+	display: inline-block;
+}
+
+.shvili2{
+	background-color: #FFFFFF;
+	width: 570px;
+	height:320px;
+    display: inline-block;
+    margin-left: 20px;
+    top:0px;
+    display: inline-block;
+    position: absolute;
+}
+
+
+.third{
+	height: 460px;
+	width:1366px;
+	background-color: #BDCCD4;
+	margin-top: 0px;
+	position: relative;
+}
+
+.imgnews{
+	font-size: 24px;
+	color: #3D58A6;
+	padding-top: 32.73px;
+	padding-left:98.54px;
+}
+
+.inlinep1{
+	height:210px; 
+	width:270px;
+	margin-left: 100px;
+	padding-top: 29px;
+}
+.inlinep{
+	height:210px; 
+	width:270px;
+	margin-left: 29px;
+	padding-top: 28.51px;
+}
+
+.texbox1{
+	width: 270px;
+	height:60px;
+	background-color: #E6E6E6;
+	margin-left: 98px;
+	display: inline-block;
+	
+}
+.texbox{
+	width: 270px;
+	height:60px;
+	background-color: #E6E6E6;
+	margin-left: 30px;
+	display: inline-block;
+	
+}
+.texts{
+	font-size: 22px;
+	padding-left: 14px;
+	padding-top: 16px;
+	font-family: Roboto;
+}
+
+.forth{
+	width: 1366px;
+	height: 345px;
+	background-color: #E6E6E6;
+	position: relative;
+
+}
+.fortht{
+	font-size: 24px;
+	padding-left: 98px;
+	padding-top: 30px;
+	color: #000000;
+	font-family: Roboto;
+}
+.inbox1{
+	position: absolute;
+	width: 570px;
+	height:225px;
+	background-color: #F2F2F2;
+	margin-left: 98px;
+	margin-top: 30px;
+
+}
+.inboxt1{
+	color: #3D58A6;
+	font-size: 22px;
+	padding-top: 13px;
+	padding-left: 20px;
+	font-family: Roboto;
+	
+}
+.finger{
+	height: 117px;
+	width: 100px;
+	padding-left: 26px;
+	padding-top: 38px;
+}
+.fortht2{
+	font-size: 20px;
+	color: #333333;
+	padding-left:60px; 
+	padding-top:38px;
+	display: inline-block;
+	font-family: Roboto;
+}
+.read{
+	font-size: 14px;
+	color: #3D58A6; 
+	padding-left:497px;
+	font-family: Roboto;
+}
+.inbox2{
+	position: absolute;
+	width: 570px;
+	height:225px;
+	background-color: #F2F2F2;
+	margin-left: 697px;
+	margin-top: 30px;
+
+
+}
+.inboxt2{
+	color: #3D58A6;
+	font-size: 22px;
+	padding-top: 13px;
+	padding-left: 20px;
+	font-family: Roboto;
+}
+.phone{
+	height: 110px;
+	width: 89px;
+	padding-top: 21px;
+	padding-left: 63px;
+}
+.mobileinf{
+	font-size: 20px;
+	color: #333333;
+	padding-left:60px; 
+	padding-top:38px;
+	display: inline-block;
+	font-family: Roboto;
+
+}
+
+.last1{
+	font-size: 12px;
+	color: #333333;
+	padding-left: 97px;
+	padding-top: 22px;
+	display: inline-block;
+	font-family: Roboto;
+}
+.last2{
+	font-size: 12px;
+	color: #333333;
+	padding-left: 906px;
+	padding-top: 22px;
+	display: inline-block;
+	font-family: Roboto;
+
+}
+
+

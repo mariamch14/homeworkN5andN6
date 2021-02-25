@@ -1,0 +1,88 @@
+body{
+	width: 100%;
+	width:100%;
+}
+.head{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 auto;
+	padding: 39px;
+}
+.box1{
+	max-width: 1450px;
+	width: 100%;
+	margin: 0 auto;
+
+}
+.box2{
+	display: flex;
+	justify-content: space-between;
+
+}
+.logo{
+	height: 100px;
+	width: 100px;
+	display: flex;
+}
+nav{
+	display: flex;
+}
+.navigation{
+	display: flex;
+	max-width: 1450px;
+	width: 100%;
+}
+.li-texts{
+	margin-right: 15px;
+	font-size: 20px;
+
+}
+.image{
+	max-width: 1450px;
+	width: 100%;
+	margin-bottom: 50px;
+}
+label{
+	margin-left: 110px;
+	margin-top: 10px;
+}
+input{
+	width: 100%;
+	padding: 12px 20px;
+	margin-left: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	box-shadow: 1px 1px 1px rgb(201,199,199);
+	border: rgb(202,200,200) 1px solid ;
+}
+.textarea-block{
+	width: 100%;
+	padding: 12px 20px;
+	margin-left: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	box-shadow: 1px 1px 1px rgb(201,199,199);
+	border: rgb(202,200,200) 1px solid ;
+}
+
+a{
+	color: #707070;
+}
+.from-warp{
+	
+	max-width: 630px;
+	width: 100%;
+	width: 100%;
+}
+.click{
+	margin-left: 80px;
+	background-color: #2E2E2E;
+    color: #fff;
+    border: none;
+    width: 150px;
+    height: 52px;
+    font-size: 21px;
+
+}
+
